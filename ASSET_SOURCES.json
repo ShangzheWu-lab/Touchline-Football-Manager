@@ -1,0 +1,2426 @@
+{
+  "source": "ESPN public rosters/CDN and Premier League FPL/CDN; archived FPL identifiers from vaastav/Fantasy-Premier-League",
+  "retrieved": "2026-11-01",
+  "clubs": {
+    "Arsenal": {
+      "url": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
+      "team_id": "359",
+      "status": "downloaded"
+    },
+    "Aston Villa": {
+      "url": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
+      "team_id": "362",
+      "status": "downloaded"
+    },
+    "Bournemouth": {
+      "url": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png",
+      "team_id": "349",
+      "status": "downloaded"
+    },
+    "Brentford": {
+      "url": "https://a.espncdn.com/i/teamlogos/soccer/500/337.png",
+      "team_id": "337",
+      "status": "downloaded"
+    },
+    "Brighton": {
+      "url": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
+      "team_id": "331",
+      "status": "downloaded"
+    },
+    "Chelsea": {
+      "url": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
+      "team_id": "363",
+      "status": "downloaded"
+    },
+    "Crystal Palace": {
+      "url": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
+      "team_id": "384",
+      "status": "downloaded"
+    },
+    "Everton": {
+      "url": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
+      "team_id": "368",
+      "status": "downloaded"
+    },
+    "Fulham": {
+      "url": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png",
+      "team_id": "370",
+      "status": "downloaded"
+    },
+    "Hull City": {
+      "url": "https://a.espncdn.com/i/teamlogos/soccer/500/306.png",
+      "team_id": "306",
+      "status": "downloaded"
+    },
+    "Ipswich Town": {
+      "url": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
+      "team_id": "373",
+      "status": "downloaded"
+    },
+    "Leeds United": {
+      "url": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
+      "team_id": "357",
+      "status": "downloaded"
+    },
+    "Liverpool": {
+      "url": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
+      "team_id": "364",
+      "status": "downloaded"
+    },
+    "Manchester City": {
+      "url": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
+      "team_id": "382",
+      "status": "downloaded"
+    },
+    "Manchester United": {
+      "url": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+      "team_id": "360",
+      "status": "downloaded"
+    },
+    "Newcastle United": {
+      "url": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
+      "team_id": "361",
+      "status": "downloaded"
+    },
+    "Nottingham Forest": {
+      "url": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png",
+      "team_id": "393",
+      "status": "downloaded"
+    },
+    "Sunderland": {
+      "url": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png",
+      "team_id": "366",
+      "status": "downloaded"
+    },
+    "Tottenham Hotspur": {
+      "url": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
+      "team_id": "367",
+      "status": "downloaded"
+    }
+  },
+  "players": {
+    "0": {
+      "name": "David Raya",
+      "athlete_id": "196176",
+      "source_name": "David Raya Martin",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/196176/david-raya",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p154561.png",
+      "status": "downloaded",
+      "opta_code": "154561"
+    },
+    "1": {
+      "name": "Kepa Arrizabalaga",
+      "athlete_id": "169532",
+      "source_name": "Kepa Arrizabalaga",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/169532/kepa-arrizabalaga",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p109745.png",
+      "status": "downloaded",
+      "opta_code": "109745"
+    },
+    "2": {
+      "name": "William Saliba",
+      "athlete_id": "277385",
+      "source_name": "William Saliba",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/277385/william-saliba",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p462424.png",
+      "status": "downloaded",
+      "opta_code": "462424"
+    },
+    "3": {
+      "name": "Gabriel Magalhaes",
+      "athlete_id": "236322",
+      "source_name": "Gabriel dos Santos Magalhães",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/236322/gabriel-magalhaes",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p226597.png",
+      "status": "downloaded",
+      "opta_code": "226597"
+    },
+    "4": {
+      "name": "Ben White",
+      "athlete_id": "241077",
+      "source_name": "Benjamin White",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/241077/ben-white",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p198869.png",
+      "status": "downloaded",
+      "opta_code": "198869"
+    },
+    "5": {
+      "name": "Jurrien Timber",
+      "athlete_id": "282716",
+      "source_name": "Jurriën Timber",
+      "photo": {
+        "href": "https://a.espncdn.com/i/headshots/soccer/players/full/282716.png",
+        "alt": "Jurriën Timber"
+      },
+      "url": "https://www.espn.com/soccer/player/_/id/282716/jurrien-timber",
+      "photo_url": "https://a.espncdn.com/i/headshots/soccer/players/full/282716.png",
+      "status": "downloaded"
+    },
+    "6": {
+      "name": "Declan Rice",
+      "athlete_id": "238262",
+      "source_name": "Declan Rice",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/238262/declan-rice",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p204480.png",
+      "status": "downloaded",
+      "opta_code": "204480"
+    },
+    "7": {
+      "name": "Martin Odegaard",
+      "athlete_id": "203669",
+      "source_name": "Martin Ødegaard",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/203669/martin-ødegaard",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p184029.png",
+      "status": "downloaded",
+      "opta_code": "184029"
+    },
+    "8": {
+      "name": "Martin Zubimendi",
+      "athlete_id": "287266",
+      "source_name": "Martín Zubimendi Ibáñez",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/287266/martin-zubimendi",
+      "photo_url": "https://resources.premierleague.com/premierleague25/photos/players/110x140/481655.png",
+      "status": "downloaded",
+      "opta_code": "481655"
+    },
+    "9": {
+      "name": "Bukayo Saka",
+      "athlete_id": "280555",
+      "source_name": "Bukayo Saka",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/280555/bukayo-saka",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p223340.png",
+      "status": "downloaded",
+      "opta_code": "223340"
+    },
+    "10": {
+      "name": "Kai Havertz",
+      "athlete_id": "231182",
+      "source_name": "Kai Havertz",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/231182/kai-havertz",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p219847.png",
+      "status": "downloaded",
+      "opta_code": "219847"
+    },
+    "11": {
+      "name": "Gabriel Martinelli",
+      "athlete_id": "269844",
+      "source_name": "Gabriel Martinelli Silva",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/269844/gabriel-martinelli",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p444145.png",
+      "status": "downloaded",
+      "opta_code": "444145"
+    },
+    "12": {
+      "name": "Emiliano Martinez",
+      "athlete_id": "158626",
+      "source_name": "Emiliano Martínez Romero",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/158626/emiliano-martinez",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p98980.png",
+      "status": "downloaded",
+      "opta_code": "98980"
+    },
+    "13": {
+      "name": "Marco Bizot",
+      "athlete_id": "132233",
+      "source_name": "Marco Bizot",
+      "photo": {
+        "href": "https://a.espncdn.com/i/headshots/soccer/players/full/132233.png",
+        "alt": "Marco Bizot"
+      },
+      "url": "https://www.espn.com/soccer/player/_/id/132233/marco-bizot",
+      "photo_url": "https://a.espncdn.com/i/headshots/soccer/players/full/132233.png",
+      "status": "downloaded"
+    },
+    "14": {
+      "name": "Ezri Konsa",
+      "athlete_id": "231859",
+      "source_name": "Ezri Konsa Ngoyo",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/231859/ezri-konsa",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p199798.png",
+      "status": "downloaded",
+      "opta_code": "199798"
+    },
+    "15": {
+      "name": "Pau Torres",
+      "athlete_id": "251100",
+      "source_name": "Pau Torres",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/251100/pau-torres",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p244954.png",
+      "status": "downloaded",
+      "opta_code": "244954"
+    },
+    "16": {
+      "name": "Matty Cash",
+      "athlete_id": "234698",
+      "source_name": "Matty Cash",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/234698/matty-cash",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p199796.png",
+      "status": "downloaded",
+      "opta_code": "199796"
+    },
+    "17": {
+      "name": "Lucas Digne",
+      "athlete_id": "160115",
+      "source_name": "Lucas Digne",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/160115/lucas-digne",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p101188.png",
+      "status": "downloaded",
+      "opta_code": "101188"
+    },
+    "18": {
+      "name": "John McGinn",
+      "athlete_id": "162843",
+      "source_name": "John McGinn",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/162843/john-mcginn",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p122806.png",
+      "status": "downloaded",
+      "opta_code": "122806"
+    },
+    "19": {
+      "name": "Youri Tielemans",
+      "athlete_id": "193297",
+      "source_name": "Youri Tielemans",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/193297/youri-tielemans",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p166989.png",
+      "status": "downloaded",
+      "opta_code": "166989"
+    },
+    "20": {
+      "name": "Boubacar Kamara",
+      "athlete_id": "250936",
+      "source_name": "Boubacar Kamara",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/250936/boubacar-kamara",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p226944.png",
+      "status": "downloaded",
+      "opta_code": "226944"
+    },
+    "21": {
+      "name": "Ollie Watkins",
+      "athlete_id": "198825",
+      "source_name": "Ollie Watkins",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/198825/ollie-watkins",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p178301.png",
+      "status": "downloaded",
+      "opta_code": "178301"
+    },
+    "22": {
+      "name": "Morgan Rogers",
+      "athlete_id": "265653",
+      "source_name": "Morgan Rogers",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/265653/morgan-rogers",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p244850.png",
+      "status": "downloaded",
+      "opta_code": "244850"
+    },
+    "23": {
+      "name": "Emiliano Buendia",
+      "athlete_id": "214375",
+      "source_name": "Emiliano Buendía Stati",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/214375/emiliano-buendia",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p195546.png",
+      "status": "downloaded",
+      "opta_code": "195546"
+    },
+    "24": {
+      "name": "Djordje Petrovic",
+      "athlete_id": "289824",
+      "source_name": "Djordje Petrovic",
+      "photo": {
+        "href": "https://a.espncdn.com/i/headshots/soccer/players/full/289824.png",
+        "alt": "Djordje Petrovic"
+      },
+      "url": "https://www.espn.com/soccer/player/_/id/289824/djordje-petrovic",
+      "photo_url": "https://a.espncdn.com/i/headshots/soccer/players/full/289824.png",
+      "status": "downloaded"
+    },
+    "25": {
+      "name": "Fraser Forster",
+      "athlete_id": "93193",
+      "source_name": "Fraser Forster",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/93193/fraser-forster",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p40383.png",
+      "status": "downloaded",
+      "opta_code": "40383"
+    },
+    "26": {
+      "name": "Marcos Senesi",
+      "athlete_id": "233945",
+      "source_name": "Marcos Senesi",
+      "photo": {
+        "href": "https://a.espncdn.com/i/headshots/soccer/players/full/233945.png",
+        "alt": "Marcos Senesi"
+      },
+      "url": "https://www.espn.com/soccer/player/_/id/233945/marcos-senesi",
+      "photo_url": "https://a.espncdn.com/i/headshots/soccer/players/full/233945.png",
+      "status": "downloaded"
+    },
+    "27": {
+      "name": "James Hill",
+      "athlete_id": "279155",
+      "source_name": "James Hill",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/279155/james-hill",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p463981.png",
+      "status": "downloaded",
+      "opta_code": "463981"
+    },
+    "28": {
+      "name": "Adam Smith",
+      "athlete_id": "122268",
+      "source_name": "Adam Smith",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/122268/adam-smith",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p54469.png",
+      "status": "downloaded",
+      "opta_code": "54469"
+    },
+    "29": {
+      "name": "Adrien Truffert",
+      "athlete_id": "305684",
+      "source_name": "Adrien Truffert",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/305684/adrien-truffert",
+      "photo_url": "https://resources.premierleague.com/premierleague25/photos/players/110x140/494521.png",
+      "status": "downloaded",
+      "opta_code": "494521"
+    },
+    "30": {
+      "name": "Lewis Cook",
+      "athlete_id": "223452",
+      "source_name": "Lewis Cook",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/223452/lewis-cook",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p155408.png",
+      "status": "downloaded",
+      "opta_code": "155408"
+    },
+    "31": {
+      "name": "Tyler Adams",
+      "athlete_id": "222776",
+      "source_name": "Tyler Adams",
+      "photo": {
+        "href": "https://a.espncdn.com/i/headshots/soccer/players/full/222776.png",
+        "alt": "Tyler Adams"
+      },
+      "url": "https://www.espn.com/soccer/player/_/id/222776/tyler-adams",
+      "photo_url": "https://a.espncdn.com/i/headshots/soccer/players/full/222776.png",
+      "status": "downloaded"
+    },
+    "32": {
+      "name": "Alex Scott",
+      "athlete_id": "314790",
+      "source_name": "Alex Scott",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/314790/alex-scott",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p503139.png",
+      "status": "downloaded",
+      "opta_code": "503139"
+    },
+    "33": {
+      "name": "Evanilson",
+      "athlete_id": "102368",
+      "source_name": "Francisco Evanilson de Lima Barbosa",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/102368/evanilson",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p444102.png",
+      "status": "downloaded",
+      "opta_code": "444102"
+    },
+    "34": {
+      "name": "Justin Kluivert",
+      "athlete_id": "245916",
+      "source_name": "Justin Kluivert",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/245916/justin-kluivert",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p222683.png",
+      "status": "downloaded",
+      "opta_code": "222683"
+    },
+    "35": {
+      "name": "Antoine Semenyo",
+      "athlete_id": "273292",
+      "source_name": "Antoine Semenyo",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/273292/antoine-semenyo",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p437730.png",
+      "status": "downloaded",
+      "opta_code": "437730"
+    },
+    "36": {
+      "name": "Caoimhin Kelleher",
+      "athlete_id": "275599",
+      "source_name": "Caoimhin Kelleher",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/275599/caoimhin-kelleher",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p200720.png",
+      "status": "downloaded",
+      "opta_code": "200720"
+    },
+    "37": {
+      "name": "Hakon Valdimarsson",
+      "athlete_id": "311527",
+      "source_name": "Hákon Valdimarsson",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/311527/hakon-valdimarsson",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p507433.png",
+      "status": "downloaded",
+      "opta_code": "507433"
+    },
+    "38": {
+      "name": "Nathan Collins",
+      "athlete_id": "279780",
+      "source_name": "Nathan Collins",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/279780/nathan-collins",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p432830.png",
+      "status": "downloaded",
+      "opta_code": "432830"
+    },
+    "39": {
+      "name": "Sepp van den Berg",
+      "athlete_id": "270507",
+      "source_name": "Sepp van den Berg",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/270507/sepp-van-den-berg",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p444765.png",
+      "status": "downloaded",
+      "opta_code": "444765"
+    },
+    "40": {
+      "name": "Kristoffer Ajer",
+      "athlete_id": "206173",
+      "source_name": "Kristoffer Ajer",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/206173/kristoffer-ajer",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p191866.png",
+      "status": "downloaded",
+      "opta_code": "191866"
+    },
+    "41": {
+      "name": "Rico Henry",
+      "athlete_id": "206761",
+      "source_name": "Rico Henry",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/206761/rico-henry",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p194010.png",
+      "status": "downloaded",
+      "opta_code": "194010"
+    },
+    "42": {
+      "name": "Mikkel Damsgaard",
+      "athlete_id": "308932",
+      "source_name": "Mikkel Damsgaard",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/308932/mikkel-damsgaard",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p440089.png",
+      "status": "downloaded",
+      "opta_code": "440089"
+    },
+    "43": {
+      "name": "Mathias Jensen",
+      "athlete_id": "227472",
+      "source_name": "Mathias Jensen",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/227472/mathias-jensen",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p207283.png",
+      "status": "downloaded",
+      "opta_code": "207283"
+    },
+    "44": {
+      "name": "Vitaly Janelt",
+      "athlete_id": "225564",
+      "source_name": "Vitaly Janelt",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/225564/vitaly-janelt",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p204580.png",
+      "status": "downloaded",
+      "opta_code": "204580"
+    },
+    "45": {
+      "name": "Igor Thiago",
+      "athlete_id": "301894",
+      "source_name": "Igor Thiago Nascimento Rodrigues",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/301894/igor-thiago",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p502500.png",
+      "status": "downloaded",
+      "opta_code": "502500"
+    },
+    "46": {
+      "name": "Kevin Schade",
+      "athlete_id": "310958",
+      "source_name": "Kevin Schade",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/310958/kevin-schade",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p513418.png",
+      "status": "downloaded",
+      "opta_code": "513418"
+    },
+    "47": {
+      "name": "Dango Ouattara",
+      "athlete_id": "315530",
+      "source_name": "Dango Ouattara",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/315530/dango-ouattara",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p533463.png",
+      "status": "downloaded",
+      "opta_code": "533463"
+    },
+    "48": {
+      "name": "Bart Verbruggen",
+      "athlete_id": "291609",
+      "source_name": "Bart Verbruggen",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/291609/bart-verbruggen",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p489639.png",
+      "status": "downloaded",
+      "opta_code": "489639"
+    },
+    "49": {
+      "name": "Jason Steele",
+      "athlete_id": "111114",
+      "source_name": "Jason Steele",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/111114/jason-steele",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p49262.png",
+      "status": "downloaded",
+      "opta_code": "49262"
+    },
+    "50": {
+      "name": "Lewis Dunk",
+      "athlete_id": "147106",
+      "source_name": "Lewis Dunk",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/147106/lewis-dunk",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p83299.png",
+      "status": "downloaded",
+      "opta_code": "83299"
+    },
+    "51": {
+      "name": "Jan Paul van Hecke",
+      "athlete_id": "282583",
+      "source_name": "Jan Paul van Hecke",
+      "photo": {
+        "href": "https://a.espncdn.com/i/headshots/soccer/players/full/282583.png",
+        "alt": "Jan Paul van Hecke"
+      },
+      "url": "https://www.espn.com/soccer/player/_/id/282583/jan-paul-van-hecke",
+      "photo_url": "https://a.espncdn.com/i/headshots/soccer/players/full/282583.png",
+      "status": "downloaded"
+    },
+    "52": {
+      "name": "Ferdi Kadioglu",
+      "athlete_id": "238318",
+      "source_name": "Ferdi Kadioglu",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/238318/ferdi-kadioglu",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p231416.png",
+      "status": "downloaded",
+      "opta_code": "231416"
+    },
+    "53": {
+      "name": "Olivier Boscagli",
+      "athlete_id": "216017",
+      "source_name": "Olivier Boscagli",
+      "photo": {
+        "href": "https://a.espncdn.com/i/headshots/soccer/players/full/216017.png",
+        "alt": "Olivier Boscagli"
+      },
+      "url": "https://www.espn.com/soccer/player/_/id/216017/olivier-boscagli",
+      "photo_url": "https://a.espncdn.com/i/headshots/soccer/players/full/216017.png",
+      "status": "downloaded"
+    },
+    "54": {
+      "name": "Carlos Baleba",
+      "athlete_id": "338814",
+      "source_name": "Carlos Baleba",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/338814/carlos-baleba",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p535301.png",
+      "status": "downloaded",
+      "opta_code": "535301"
+    },
+    "55": {
+      "name": "Yasin Ayari",
+      "athlete_id": "304242",
+      "source_name": "Yasin Ayari",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/304242/yasin-ayari",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p509416.png",
+      "status": "downloaded",
+      "opta_code": "509416"
+    },
+    "56": {
+      "name": "Diego Gomez",
+      "athlete_id": "192278",
+      "source_name": "Diego Gómez",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/192278/diego-gomez",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p514254.png",
+      "status": "downloaded",
+      "opta_code": "514254"
+    },
+    "57": {
+      "name": "Kaoru Mitoma",
+      "athlete_id": "274278",
+      "source_name": "Mitoma Kaoru",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/274278/kaoru-mitoma",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p451340.png",
+      "status": "downloaded",
+      "opta_code": "451340"
+    },
+    "58": {
+      "name": "Yankuba Minteh",
+      "athlete_id": "348787",
+      "source_name": "Yankuba Minteh",
+      "photo": {
+        "href": "https://a.espncdn.com/i/headshots/soccer/players/full/348787.png",
+        "alt": "Yankuba Minteh"
+      },
+      "url": "https://www.espn.com/soccer/player/_/id/348787/yankuba-minteh",
+      "photo_url": "https://a.espncdn.com/i/headshots/soccer/players/full/348787.png",
+      "status": "downloaded"
+    },
+    "59": {
+      "name": "Danny Welbeck",
+      "athlete_id": "115271",
+      "source_name": "Danny Welbeck",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/115271/danny-welbeck",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p50175.png",
+      "status": "downloaded",
+      "opta_code": "50175"
+    },
+    "60": {
+      "name": "Robert Sanchez",
+      "athlete_id": "108662",
+      "source_name": "Robert Sánchez",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/108662/robert-sanchez",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p215059.png",
+      "status": "downloaded",
+      "opta_code": "215059"
+    },
+    "61": {
+      "name": "Filip Jorgensen",
+      "athlete_id": "304256",
+      "source_name": "Filip Jørgensen",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/304256/filip-jørgensen",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p508479.png",
+      "status": "downloaded",
+      "opta_code": "508479"
+    },
+    "62": {
+      "name": "Reece James",
+      "athlete_id": "189007",
+      "source_name": "Reece James",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/189007/reece-james",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p225796.png",
+      "status": "downloaded",
+      "opta_code": "225796"
+    },
+    "63": {
+      "name": "Levi Colwill",
+      "athlete_id": "296410",
+      "source_name": "Levi Colwill",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/296410/levi-colwill",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p460028.png",
+      "status": "downloaded",
+      "opta_code": "460028"
+    },
+    "64": {
+      "name": "Marc Cucurella",
+      "athlete_id": "259910",
+      "source_name": "Marc Cucurella Saseta",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/259910/marc-cucurella",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p179268.png",
+      "status": "downloaded",
+      "opta_code": "179268"
+    },
+    "65": {
+      "name": "Wesley Fofana",
+      "athlete_id": "270190",
+      "source_name": "Wesley Fofana",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/270190/wesley-fofana",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p444463.png",
+      "status": "downloaded",
+      "opta_code": "444463"
+    },
+    "66": {
+      "name": "Cole Palmer",
+      "athlete_id": "296395",
+      "source_name": "Cole Palmer",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/296395/cole-palmer",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p244851.png",
+      "status": "downloaded",
+      "opta_code": "244851"
+    },
+    "67": {
+      "name": "Enzo Fernandez",
+      "athlete_id": "285450",
+      "source_name": "Enzo Fernández",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/285450/enzo-fernandez",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p448047.png",
+      "status": "downloaded",
+      "opta_code": "448047"
+    },
+    "68": {
+      "name": "Moises Caicedo",
+      "athlete_id": "289877",
+      "source_name": "Moisés Caicedo Corozo",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/289877/moises-caicedo",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p486672.png",
+      "status": "downloaded",
+      "opta_code": "486672"
+    },
+    "69": {
+      "name": "Pedro Neto",
+      "athlete_id": "256115",
+      "source_name": "Pedro Lomba Neto",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/256115/pedro-neto",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p247632.png",
+      "status": "downloaded",
+      "opta_code": "247632"
+    },
+    "70": {
+      "name": "Liam Delap",
+      "athlete_id": "307114",
+      "source_name": "Liam Delap",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/307114/liam-delap",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p463034.png",
+      "status": "downloaded",
+      "opta_code": "463034"
+    },
+    "71": {
+      "name": "Joao Pedro",
+      "athlete_id": "284960",
+      "source_name": "João Pedro Junqueira de Jesus",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/284960/joao-pedro",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p475168.png",
+      "status": "downloaded",
+      "opta_code": "475168"
+    },
+    "72": {
+      "name": "Dean Henderson",
+      "athlete_id": "234172",
+      "source_name": "Dean Henderson",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/234172/dean-henderson",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p172649.png",
+      "status": "downloaded",
+      "opta_code": "172649"
+    },
+    "73": {
+      "name": "Walter Benitez",
+      "athlete_id": "195738",
+      "source_name": "Walter Benítez",
+      "photo": {
+        "href": "https://a.espncdn.com/i/headshots/soccer/players/full/195738.png",
+        "alt": "Walter Benítez"
+      },
+      "url": "https://www.espn.com/soccer/player/_/id/195738/walter-benitez",
+      "photo_url": "https://a.espncdn.com/i/headshots/soccer/players/full/195738.png",
+      "status": "downloaded"
+    },
+    "74": {
+      "name": "Chris Richards",
+      "athlete_id": "272585",
+      "source_name": "Chris Richards",
+      "photo": {
+        "href": "https://a.espncdn.com/i/headshots/soccer/players/full/272585.png",
+        "alt": "Chris Richards"
+      },
+      "url": "https://www.espn.com/soccer/player/_/id/272585/chris-richards",
+      "photo_url": "https://a.espncdn.com/i/headshots/soccer/players/full/272585.png",
+      "status": "downloaded"
+    },
+    "75": {
+      "name": "Tyrick Mitchell",
+      "athlete_id": "300853",
+      "source_name": "Tyrick Mitchell",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/300853/tyrick-mitchell",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p244723.png",
+      "status": "downloaded",
+      "opta_code": "244723"
+    },
+    "76": {
+      "name": "Daniel Munoz",
+      "athlete_id": "146679",
+      "source_name": "Daniel Muñoz",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/146679/daniel-munoz",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p247348.png",
+      "status": "downloaded",
+      "opta_code": "247348"
+    },
+    "77": {
+      "name": "Chadi Riad",
+      "athlete_id": "307870",
+      "source_name": "Chadi Riad Dnanou",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/307870/chadi-riad",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p515621.png",
+      "status": "downloaded",
+      "opta_code": "515621"
+    },
+    "78": {
+      "name": "Adam Wharton",
+      "athlete_id": "333419",
+      "source_name": "Adam Wharton",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/333419/adam-wharton",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p496221.png",
+      "status": "downloaded",
+      "opta_code": "496221"
+    },
+    "79": {
+      "name": "Jefferson Lerma",
+      "athlete_id": "197399",
+      "source_name": "Jefferson Lerma Solís",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/197399/jefferson-lerma",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p152551.png",
+      "status": "downloaded",
+      "opta_code": "152551"
+    },
+    "80": {
+      "name": "Daichi Kamada",
+      "athlete_id": "219362",
+      "source_name": "Daichi Kamada",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/219362/daichi-kamada",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p209400.png",
+      "status": "downloaded",
+      "opta_code": "209400"
+    },
+    "81": {
+      "name": "Jean Philippe Mateta",
+      "athlete_id": "241187",
+      "source_name": "Jean-Philippe Mateta",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/241187/jean-philippe-mateta",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p231747.png",
+      "status": "downloaded",
+      "opta_code": "231747"
+    },
+    "82": {
+      "name": "Ismaila Sarr",
+      "athlete_id": "241012",
+      "source_name": "Ismaïla Sarr",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/241012/ismaila-sarr",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p232185.png",
+      "status": "downloaded",
+      "opta_code": "232185"
+    },
+    "83": {
+      "name": "Eddie Nketiah",
+      "athlete_id": "259486",
+      "source_name": "Eddie Nketiah",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/259486/eddie-nketiah",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p205533.png",
+      "status": "downloaded",
+      "opta_code": "205533"
+    },
+    "84": {
+      "name": "Jordan Pickford",
+      "athlete_id": "159443",
+      "source_name": "Jordan Pickford",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/159443/jordan-pickford",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p111234.png",
+      "status": "downloaded",
+      "opta_code": "111234"
+    },
+    "85": {
+      "name": "Mark Travers",
+      "athlete_id": "7441",
+      "source_name": "Mark Travers",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/7441/mark-travers",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p229600.png",
+      "status": "downloaded",
+      "opta_code": "229600"
+    },
+    "86": {
+      "name": "James Tarkowski",
+      "athlete_id": "155226",
+      "source_name": "James Tarkowski",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/155226/james-tarkowski",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p17761.png",
+      "status": "downloaded",
+      "opta_code": "17761"
+    },
+    "87": {
+      "name": "Jarrad Branthwaite",
+      "athlete_id": "286965",
+      "source_name": "Jarrad Branthwaite",
+      "photo": {
+        "href": "https://a.espncdn.com/i/headshots/soccer/players/full/286965.png",
+        "alt": "Jarrad Branthwaite"
+      },
+      "url": "https://www.espn.com/soccer/player/_/id/286965/jarrad-branthwaite",
+      "photo_url": "https://a.espncdn.com/i/headshots/soccer/players/full/286965.png",
+      "status": "downloaded"
+    },
+    "88": {
+      "name": "Vitaliy Mykolenko",
+      "athlete_id": "262594",
+      "source_name": "Vitalii Mykolenko",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/262594/vitaliy-mykolenko",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p224967.png",
+      "status": "downloaded",
+      "opta_code": "224967"
+    },
+    "89": {
+      "name": "Jake OBrien",
+      "athlete_id": "283586",
+      "source_name": "Jake O'Brien",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/283586/jake-obrien",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p512462.png",
+      "status": "downloaded",
+      "opta_code": "512462"
+    },
+    "90": {
+      "name": "Idrissa Gueye",
+      "athlete_id": "144517",
+      "source_name": "Idrissa Gueye",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/144517/idrissa-gueye",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p80801.png",
+      "status": "downloaded",
+      "opta_code": "80801"
+    },
+    "91": {
+      "name": "James Garner",
+      "athlete_id": "276220",
+      "source_name": "James Garner",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/276220/james-garner",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p232928.png",
+      "status": "downloaded",
+      "opta_code": "232928"
+    },
+    "92": {
+      "name": "Kiernan Dewsbury Hall",
+      "athlete_id": "252389",
+      "source_name": "Kiernan Dewsbury-Hall",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/252389/kiernan-dewsbury-hall",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p215413.png",
+      "status": "downloaded",
+      "opta_code": "215413"
+    },
+    "93": {
+      "name": "Iliman Ndiaye",
+      "athlete_id": "268641",
+      "source_name": "Iliman Ndiaye",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/268641/iliman-ndiaye",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p440993.png",
+      "status": "downloaded",
+      "opta_code": "440993"
+    },
+    "94": {
+      "name": "Beto",
+      "athlete_id": "289511",
+      "source_name": "Norberto Bercique Gomes Betuncal",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/289511/beto",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p486385.png",
+      "status": "downloaded",
+      "opta_code": "486385"
+    },
+    "95": {
+      "name": "Thierno Barry",
+      "athlete_id": "301166",
+      "source_name": "Thierno Barry",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/301166/thierno-barry",
+      "photo_url": "https://resources.premierleague.com/premierleague25/photos/players/110x140/586309.png",
+      "status": "downloaded",
+      "opta_code": "586309"
+    },
+    "96": {
+      "name": "Bernd Leno",
+      "athlete_id": "153765",
+      "source_name": "Bernd Leno",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/153765/bernd-leno",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p80201.png",
+      "status": "downloaded",
+      "opta_code": "80201"
+    },
+    "97": {
+      "name": "Benjamin Lecomte",
+      "athlete_id": "149517",
+      "source_name": "Benjamin Lecomte",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/149517/benjamin-lecomte",
+      "photo_url": "https://resources.premierleague.com/premierleague25/photos/players/110x140/86873.png",
+      "status": "downloaded",
+      "opta_code": "86873"
+    },
+    "98": {
+      "name": "Joachim Andersen",
+      "athlete_id": "196081",
+      "source_name": "Joachim Andersen",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/196081/joachim-andersen",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p174874.png",
+      "status": "downloaded",
+      "opta_code": "174874"
+    },
+    "99": {
+      "name": "Calvin Bassey",
+      "athlete_id": "263110",
+      "source_name": "Calvin Bassey",
+      "photo": {
+        "href": "https://a.espncdn.com/i/headshots/soccer/players/full/263110.png",
+        "alt": "Calvin Bassey"
+      },
+      "url": "https://www.espn.com/soccer/player/_/id/263110/calvin-bassey",
+      "photo_url": "https://a.espncdn.com/i/headshots/soccer/players/full/263110.png",
+      "status": "downloaded"
+    },
+    "100": {
+      "name": "Antonee Robinson",
+      "athlete_id": "222396",
+      "source_name": "Antonee Robinson",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/222396/antonee-robinson",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p169528.png",
+      "status": "downloaded",
+      "opta_code": "169528"
+    },
+    "101": {
+      "name": "Kenny Tete",
+      "athlete_id": "190974",
+      "source_name": "Kenny Tete",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/190974/kenny-tete",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p167074.png",
+      "status": "downloaded",
+      "opta_code": "167074"
+    },
+    "102": {
+      "name": "Sander Berge",
+      "athlete_id": "218998",
+      "source_name": "Sander Berge",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/218998/sander-berge",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p207189.png",
+      "status": "downloaded",
+      "opta_code": "207189"
+    },
+    "103": {
+      "name": "Alex Iwobi",
+      "athlete_id": "175063",
+      "source_name": "Alex Iwobi",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/175063/alex-iwobi",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p153133.png",
+      "status": "downloaded",
+      "opta_code": "153133"
+    },
+    "104": {
+      "name": "Tom Cairney",
+      "athlete_id": "140033",
+      "source_name": "Tom Cairney",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/140033/tom-cairney",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p76357.png",
+      "status": "downloaded",
+      "opta_code": "76357"
+    },
+    "105": {
+      "name": "Raul Jimenez",
+      "athlete_id": "167060",
+      "source_name": "Raúl Jiménez",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/167060/raul-jimenez",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p102057.png",
+      "status": "downloaded",
+      "opta_code": "102057"
+    },
+    "106": {
+      "name": "Harry Wilson",
+      "athlete_id": "194801",
+      "source_name": "Harry Wilson",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/194801/harry-wilson",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p153682.png",
+      "status": "downloaded",
+      "opta_code": "153682"
+    },
+    "107": {
+      "name": "Samuel Chukwueze",
+      "athlete_id": "228298",
+      "source_name": "Samuel Chukwueze",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/228298/samuel-chukwueze",
+      "photo_url": "https://resources.premierleague.com/premierleague25/photos/players/110x140/218328.png",
+      "status": "downloaded",
+      "opta_code": "218328"
+    },
+    "108": {
+      "name": "Ivor Pandur",
+      "athlete_id": "277234",
+      "source_name": "Ivor Pandur",
+      "photo": {
+        "href": "https://a.espncdn.com/i/headshots/soccer/players/full/277234.png",
+        "alt": "Ivor Pandur"
+      },
+      "url": "https://www.espn.com/soccer/player/_/id/277234/ivor-pandur",
+      "photo_url": "https://a.espncdn.com/i/headshots/soccer/players/full/277234.png",
+      "status": "downloaded"
+    },
+    "109": {
+      "name": "Dillon Phillips",
+      "athlete_id": "191603",
+      "source_name": "Dillon Phillips",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/191603/dillon-phillips",
+      "photo_url": "https://resources.premierleague.com/premierleague25/photos/players/110x140/167825.png",
+      "status": "downloaded",
+      "opta_code": "167825"
+    },
+    "110": {
+      "name": "Lewie Coyle",
+      "athlete_id": "231826",
+      "source_name": "Lewie Coyle",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/231826/lewie-coyle",
+      "photo_url": "https://resources.premierleague.com/premierleague25/photos/players/110x140/193278.png",
+      "status": "downloaded",
+      "opta_code": "193278"
+    },
+    "111": {
+      "name": "Alfie Jones",
+      "athlete_id": "240589",
+      "source_name": "Alfie Jones",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/240589/alfie-jones",
+      "photo_url": "https://resources.premierleague.com/premierleague25/photos/players/110x140/176706.png",
+      "status": "downloaded",
+      "opta_code": "176706",
+      "verification_url": "https://www.premierleague.com/en/players/176706/alfie-jones/career"
+    },
+    "112": {
+      "name": "Charlie Hughes",
+      "athlete_id": "326187",
+      "source_name": "Charlie Hughes",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/326187/charlie-hughes",
+      "photo_url": "https://resources.premierleague.com/premierleague25/photos/players/110x140/501902.png",
+      "status": "downloaded",
+      "opta_code": "501902"
+    },
+    "113": {
+      "name": "Ryan Giles",
+      "athlete_id": "243576",
+      "source_name": "Ryan Giles",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/243576/ryan-giles",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p232351.png",
+      "status": "downloaded",
+      "opta_code": "232351"
+    },
+    "114": {
+      "name": "Regan Slater",
+      "athlete_id": "249851",
+      "source_name": "Regan Slater",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/249851/regan-slater",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p243413.png",
+      "status": "downloaded",
+      "opta_code": "243413"
+    },
+    "115": {
+      "name": "Matt Crooks",
+      "athlete_id": "153613",
+      "source_name": "Matt Crooks",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/153613/matt-crooks",
+      "photo_url": "https://resources.premierleague.com/premierleague25/photos/players/110x140/101282.png",
+      "status": "downloaded",
+      "opta_code": "101282"
+    },
+    "116": {
+      "name": "Joe Gelhardt",
+      "athlete_id": "277531",
+      "source_name": "Joe Gelhardt",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/277531/joe-gelhardt",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p462635.png",
+      "status": "downloaded",
+      "opta_code": "462635"
+    },
+    "117": {
+      "name": "Mohamed Belloumi",
+      "athlete_id": "320417",
+      "source_name": "Mohamed Belloumi",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/320417/mohamed-belloumi",
+      "photo_url": "https://resources.premierleague.com/premierleague25/photos/players/110x140/540324.png",
+      "status": "downloaded",
+      "opta_code": "540324"
+    },
+    "118": {
+      "name": "Oli McBurnie",
+      "athlete_id": "193010",
+      "source_name": "Oli McBurnie",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/193010/oliver-mcburnie",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p169432.png",
+      "status": "downloaded",
+      "opta_code": "169432"
+    },
+    "119": {
+      "name": "Liam Millar",
+      "athlete_id": "271879",
+      "source_name": "Liam Millar",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/271879/liam-millar",
+      "photo_url": "https://resources.premierleague.com/premierleague25/photos/players/110x140/232905.png",
+      "status": "downloaded",
+      "opta_code": "232905"
+    },
+    "120": {
+      "name": "Alex Palmer",
+      "athlete_id": "219390",
+      "source_name": "Alex Palmer",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/219390/alex-palmer",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p112520.png",
+      "status": "downloaded",
+      "opta_code": "112520"
+    },
+    "121": {
+      "name": "Christian Walton",
+      "athlete_id": "168746",
+      "source_name": "Christian Walton",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/168746/christian-walton",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p108813.png",
+      "status": "downloaded",
+      "opta_code": "108813"
+    },
+    "122": {
+      "name": "Dara OShea",
+      "athlete_id": "243440",
+      "source_name": "Dara O'Shea",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/243440/dara-oshea",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p216616.png",
+      "status": "downloaded",
+      "opta_code": "216616"
+    },
+    "123": {
+      "name": "Jacob Greaves",
+      "athlete_id": "291174",
+      "source_name": "Jacob Greaves",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/291174/jacob-greaves",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p449429.png",
+      "status": "downloaded",
+      "opta_code": "449429"
+    },
+    "124": {
+      "name": "Leif Davis",
+      "athlete_id": "283086",
+      "source_name": "Leif Davis",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/283086/leif-davis",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p455084.png",
+      "status": "downloaded",
+      "opta_code": "455084"
+    },
+    "125": {
+      "name": "Axel Tuanzebe",
+      "athlete_id": "229524",
+      "source_name": "Axel Tuanzebe",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/229524/axel-tuanzebe",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p180804.png",
+      "status": "downloaded",
+      "opta_code": "180804"
+    },
+    "126": {
+      "name": "Sam Morsy",
+      "athlete_id": "138879",
+      "source_name": "Sam Morsy",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/138879/sam-morsy",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p74944.png",
+      "status": "downloaded",
+      "opta_code": "74944"
+    },
+    "127": {
+      "name": "Jack Taylor",
+      "athlete_id": "139744",
+      "source_name": "Jack Taylor",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/139744/jack-taylor",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p231899.png",
+      "status": "downloaded",
+      "opta_code": "231899"
+    },
+    "128": {
+      "name": "Jens Cajuste",
+      "athlete_id": "274971",
+      "source_name": "Jens Cajuste",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/274971/jens-cajuste",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p454667.png",
+      "status": "downloaded",
+      "opta_code": "454667"
+    },
+    "129": {
+      "name": "George Hirst",
+      "athlete_id": "241325",
+      "source_name": "George Hirst",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/241325/george-hirst",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p222625.png",
+      "status": "downloaded",
+      "opta_code": "222625"
+    },
+    "130": {
+      "name": "Jaden Philogene",
+      "athlete_id": "295370",
+      "source_name": "Jaden Philogene",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/295370/jaden-philogene",
+      "photo_url": "https://resources.premierleague.com/premierleague25/photos/players/110x140/481624.png",
+      "status": "downloaded",
+      "opta_code": "481624"
+    },
+    "131": {
+      "name": "Wes Burns",
+      "athlete_id": "181516",
+      "source_name": "Wes Burns",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/181516/wes-burns",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p149929.png",
+      "status": "downloaded",
+      "opta_code": "149929"
+    },
+    "132": {
+      "name": "Lucas Perri",
+      "athlete_id": "252406",
+      "source_name": "Lucas Estella Perri",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/252406/lucas-perri",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p201595.png",
+      "status": "downloaded",
+      "opta_code": "201595"
+    },
+    "133": {
+      "name": "Karl Darlow",
+      "athlete_id": "130877",
+      "source_name": "Karl Darlow",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/130877/karl-darlow",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p59735.png",
+      "status": "downloaded",
+      "opta_code": "59735"
+    },
+    "134": {
+      "name": "Joe Rodon",
+      "athlete_id": "232325",
+      "source_name": "Joe Rodon",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/232325/joe-rodon",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p214225.png",
+      "status": "downloaded",
+      "opta_code": "214225"
+    },
+    "135": {
+      "name": "Pascal Struijk",
+      "athlete_id": "246771",
+      "source_name": "Pascal Struijk",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/246771/pascal-struijk",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p222694.png",
+      "status": "downloaded",
+      "opta_code": "222694"
+    },
+    "136": {
+      "name": "Jayden Bogle",
+      "athlete_id": "243408",
+      "source_name": "Jayden Bogle",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/243408/jayden-bogle",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p226182.png",
+      "status": "downloaded",
+      "opta_code": "226182"
+    },
+    "137": {
+      "name": "Gabriel Gudmundsson",
+      "athlete_id": "250166",
+      "source_name": "Gabriel Gudmundsson",
+      "photo": {
+        "href": "https://a.espncdn.com/i/headshots/soccer/players/full/250166.png",
+        "alt": "Gabriel Gudmundsson"
+      },
+      "url": "https://www.espn.com/soccer/player/_/id/250166/gabriel-gudmundsson",
+      "photo_url": "https://a.espncdn.com/i/headshots/soccer/players/full/250166.png",
+      "status": "downloaded"
+    },
+    "138": {
+      "name": "Ethan Ampadu",
+      "athlete_id": "241317",
+      "source_name": "Ethan Ampadu",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/241317/ethan-ampadu",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p199598.png",
+      "status": "downloaded",
+      "opta_code": "199598"
+    },
+    "139": {
+      "name": "Ao Tanaka",
+      "athlete_id": "253173",
+      "source_name": "Tanaka Ao",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/253173/ao-tanaka",
+      "photo_url": "https://resources.premierleague.com/premierleague25/photos/players/110x140/248056.png",
+      "status": "downloaded",
+      "opta_code": "248056"
+    },
+    "140": {
+      "name": "Anton Stach",
+      "athlete_id": "304802",
+      "source_name": "Anton Stach",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/304802/anton-stach",
+      "photo_url": "https://resources.premierleague.com/premierleague25/photos/players/110x140/466525.png",
+      "status": "downloaded",
+      "opta_code": "466525"
+    },
+    "141": {
+      "name": "Joel Piroe",
+      "athlete_id": "245562",
+      "source_name": "Joël Piroe",
+      "photo": {
+        "href": "https://a.espncdn.com/i/headshots/soccer/players/full/245562.png",
+        "alt": "Joël Piroe"
+      },
+      "url": "https://www.espn.com/soccer/player/_/id/245562/joel-piroe",
+      "photo_url": "https://a.espncdn.com/i/headshots/soccer/players/full/245562.png",
+      "status": "downloaded"
+    },
+    "142": {
+      "name": "Daniel James",
+      "athlete_id": "203072",
+      "source_name": "Daniel James",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/203072/daniel-james",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p200617.png",
+      "status": "downloaded",
+      "opta_code": "200617"
+    },
+    "143": {
+      "name": "Wilfried Gnonto",
+      "athlete_id": "297784",
+      "source_name": "Wilfried Gnonto",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/297784/wilfried-gnonto",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p492859.png",
+      "status": "downloaded",
+      "opta_code": "492859"
+    },
+    "144": {
+      "name": "Alisson Becker",
+      "athlete_id": "196876",
+      "source_name": "Alisson Becker",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/196876/alisson-becker",
+      "photo_url": "https://resources.premierleague.com/premierleague25/photos/players/110x140/116535.png",
+      "status": "downloaded",
+      "opta_code": "116535"
+    },
+    "145": {
+      "name": "Giorgi Mamardashvili",
+      "athlete_id": "274742",
+      "source_name": "Giorgi Mamardashvili",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/274742/giorgi-mamardashvili",
+      "photo_url": "https://resources.premierleague.com/premierleague25/photos/players/110x140/449027.png",
+      "status": "downloaded",
+      "opta_code": "449027"
+    },
+    "146": {
+      "name": "Virgil van Dijk",
+      "athlete_id": "157892",
+      "source_name": "Virgil van Dijk",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/157892/virgil-van-dijk",
+      "photo_url": "https://resources.premierleague.com/premierleague25/photos/players/110x140/97032.png",
+      "status": "downloaded",
+      "opta_code": "97032"
+    },
+    "147": {
+      "name": "Ibrahima Konate",
+      "athlete_id": "251634",
+      "source_name": "Ibrahima Konaté",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/251634/ibrahima-konate",
+      "photo_url": "https://resources.premierleague.com/premierleague25/photos/players/110x140/204716.png",
+      "status": "downloaded",
+      "opta_code": "204716"
+    },
+    "148": {
+      "name": "Conor Bradley",
+      "athlete_id": "250183",
+      "source_name": "Conor Bradley",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/250183/conor-bradley",
+      "photo_url": "https://resources.premierleague.com/premierleague25/photos/players/110x140/492777.png",
+      "status": "downloaded",
+      "opta_code": "492777"
+    },
+    "149": {
+      "name": "Milos Kerkez",
+      "athlete_id": "323110",
+      "source_name": "Milos Kerkez",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/323110/milos-kerkez",
+      "photo_url": "https://resources.premierleague.com/premierleague25/photos/players/110x140/544877.png",
+      "status": "downloaded",
+      "opta_code": "544877"
+    },
+    "150": {
+      "name": "Alexis Mac Allister",
+      "athlete_id": "249299",
+      "source_name": "Alexis Mac Allister",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/249299/alexis-mac-allister",
+      "photo_url": "https://resources.premierleague.com/premierleague25/photos/players/110x140/243016.png",
+      "status": "downloaded",
+      "opta_code": "243016"
+    },
+    "151": {
+      "name": "Ryan Gravenberch",
+      "athlete_id": "274632",
+      "source_name": "Ryan Gravenberch",
+      "photo": {
+        "href": "https://a.espncdn.com/i/headshots/soccer/players/full/274632.png",
+        "alt": "Ryan Gravenberch"
+      },
+      "url": "https://www.espn.com/soccer/player/_/id/274632/ryan-gravenberch",
+      "photo_url": "https://a.espncdn.com/i/headshots/soccer/players/full/274632.png",
+      "status": "downloaded"
+    },
+    "152": {
+      "name": "Dominik Szoboszlai",
+      "athlete_id": "257206",
+      "source_name": "Dominik Szoboszlai",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/257206/dominik-szoboszlai",
+      "photo_url": "https://resources.premierleague.com/premierleague25/photos/players/110x140/424876.png",
+      "status": "downloaded",
+      "opta_code": "424876"
+    },
+    "153": {
+      "name": "Mohamed Salah",
+      "athlete_id": "173896",
+      "source_name": "Mohamed Salah",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/173896/mohamed-salah",
+      "photo_url": "https://resources.premierleague.com/premierleague25/photos/players/110x140/118748.png",
+      "status": "downloaded",
+      "opta_code": "118748"
+    },
+    "154": {
+      "name": "Cody Gakpo",
+      "athlete_id": "249524",
+      "source_name": "Cody Gakpo",
+      "photo": {
+        "href": "https://a.espncdn.com/i/headshots/soccer/players/full/249524.png",
+        "alt": "Cody Gakpo"
+      },
+      "url": "https://www.espn.com/soccer/player/_/id/249524/cody-gakpo",
+      "photo_url": "https://a.espncdn.com/i/headshots/soccer/players/full/249524.png",
+      "status": "downloaded"
+    },
+    "155": {
+      "name": "Hugo Ekitike",
+      "athlete_id": "304901",
+      "source_name": "Hugo Ekitiké",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/304901/hugo-ekitike",
+      "photo_url": "https://resources.premierleague.com/premierleague25/photos/players/110x140/510663.png",
+      "status": "downloaded",
+      "opta_code": "510663"
+    },
+    "156": {
+      "name": "Gianluigi Donnarumma",
+      "athlete_id": "217092",
+      "source_name": "Gianluigi Donnarumma",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/217092/gianluigi-donnarumma",
+      "photo_url": "https://resources.premierleague.com/premierleague25/photos/players/110x140/204936.png",
+      "status": "downloaded",
+      "opta_code": "204936"
+    },
+    "157": {
+      "name": "James Trafford",
+      "athlete_id": "307118",
+      "source_name": "James Trafford",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/307118/james-trafford",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p432720.png",
+      "status": "downloaded",
+      "opta_code": "432720"
+    },
+    "158": {
+      "name": "Ruben Dias",
+      "athlete_id": "234878",
+      "source_name": "Rúben Gato Alves Dias",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/234878/ruben-dias",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p171314.png",
+      "status": "downloaded",
+      "opta_code": "171314"
+    },
+    "159": {
+      "name": "Josko Gvardiol",
+      "athlete_id": "299910",
+      "source_name": "Joško Gvardiol",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/299910/josko-gvardiol",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p477424.png",
+      "status": "downloaded",
+      "opta_code": "477424"
+    },
+    "160": {
+      "name": "John Stones",
+      "athlete_id": "157974",
+      "source_name": "John Stones",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/157974/john-stones",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p97299.png",
+      "status": "downloaded",
+      "opta_code": "97299"
+    },
+    "161": {
+      "name": "Rico Lewis",
+      "athlete_id": "325564",
+      "source_name": "Rico Lewis",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/325564/rico-lewis",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p477064.png",
+      "status": "downloaded",
+      "opta_code": "477064"
+    },
+    "162": {
+      "name": "Rodri",
+      "athlete_id": "231828",
+      "source_name": "Rodrigo 'Rodri' Hernandez",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/231828/rodri",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p220566.png",
+      "status": "downloaded",
+      "opta_code": "220566"
+    },
+    "163": {
+      "name": "Phil Foden",
+      "athlete_id": "250787",
+      "source_name": "Phil Foden",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/250787/phil-foden",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p209244.png",
+      "status": "downloaded",
+      "opta_code": "209244"
+    },
+    "164": {
+      "name": "Tijjani Reijnders",
+      "athlete_id": "261328",
+      "source_name": "Tijjani Reijnders",
+      "photo": {
+        "href": "https://a.espncdn.com/i/headshots/soccer/players/full/261328.png",
+        "alt": "Tijjani Reijnders"
+      },
+      "url": "https://www.espn.com/soccer/player/_/id/261328/tijjani-reijnders",
+      "photo_url": "https://a.espncdn.com/i/headshots/soccer/players/full/261328.png",
+      "status": "downloaded"
+    },
+    "165": {
+      "name": "Erling Haaland",
+      "athlete_id": "253989",
+      "source_name": "Erling Haaland",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/253989/erling-haaland",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p223094.png",
+      "status": "downloaded",
+      "opta_code": "223094"
+    },
+    "166": {
+      "name": "Jeremy Doku",
+      "athlete_id": "283672",
+      "source_name": "Jérémy Doku",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/283672/jeremy-doku",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p248875.png",
+      "status": "downloaded",
+      "opta_code": "248875"
+    },
+    "167": {
+      "name": "Omar Marmoush",
+      "athlete_id": "303745",
+      "source_name": "Omar Marmoush",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/303745/omar-marmoush",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p438234.png",
+      "status": "downloaded",
+      "opta_code": "438234"
+    },
+    "168": {
+      "name": "Senne Lammens",
+      "athlete_id": "301425",
+      "source_name": "Senne Lammens",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/301425/senne-lammens",
+      "photo_url": "https://resources.premierleague.com/premierleague25/photos/players/110x140/465247.png",
+      "status": "downloaded",
+      "opta_code": "465247"
+    },
+    "169": {
+      "name": "Altay Bayindir",
+      "athlete_id": "274272",
+      "source_name": "Altay Bayindir",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/274272/altay-bayindir",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p451302.png",
+      "status": "downloaded",
+      "opta_code": "451302"
+    },
+    "170": {
+      "name": "Matthijs de Ligt",
+      "athlete_id": "239349",
+      "source_name": "Matthijs de Ligt",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/239349/matthijs-de-ligt",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p209365.png",
+      "status": "downloaded",
+      "opta_code": "209365"
+    },
+    "171": {
+      "name": "Lisandro Martinez",
+      "athlete_id": "233937",
+      "source_name": "Lisandro Martínez",
+      "photo": {
+        "href": "https://a.espncdn.com/i/headshots/soccer/players/full/233937.png",
+        "alt": "Lisandro Martínez"
+      },
+      "url": "https://www.espn.com/soccer/player/_/id/233937/lisandro-martinez",
+      "photo_url": "https://a.espncdn.com/i/headshots/soccer/players/full/233937.png",
+      "status": "downloaded"
+    },
+    "172": {
+      "name": "Harry Maguire",
+      "athlete_id": "157073",
+      "source_name": "Harry Maguire",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/157073/harry-maguire",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p95658.png",
+      "status": "downloaded",
+      "opta_code": "95658"
+    },
+    "173": {
+      "name": "Diogo Dalot",
+      "athlete_id": "238902",
+      "source_name": "Diogo Dalot Teixeira",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/238902/diogo-dalot",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p216051.png",
+      "status": "downloaded",
+      "opta_code": "216051"
+    },
+    "174": {
+      "name": "Bruno Fernandes",
+      "athlete_id": "124091",
+      "source_name": "Bruno Borges Fernandes",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/124091/bruno-fernandes",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p141746.png",
+      "status": "downloaded",
+      "opta_code": "141746"
+    },
+    "175": {
+      "name": "Kobbie Mainoo",
+      "athlete_id": "328466",
+      "source_name": "Kobbie Mainoo",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/328466/kobbie-mainoo",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p516895.png",
+      "status": "downloaded",
+      "opta_code": "516895"
+    },
+    "176": {
+      "name": "Casemiro",
+      "athlete_id": "173666",
+      "source_name": "Carlos Henrique Casimiro",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/173666/casemiro",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p61256.png",
+      "status": "downloaded",
+      "opta_code": "61256"
+    },
+    "177": {
+      "name": "Bryan Mbeumo",
+      "athlete_id": "271170",
+      "source_name": "Bryan Mbeumo",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/271170/bryan-mbeumo",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p446008.png",
+      "status": "downloaded",
+      "opta_code": "446008"
+    },
+    "178": {
+      "name": "Matheus Cunha",
+      "athlete_id": "259902",
+      "source_name": "Matheus Santos Carneiro Da Cunha",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/259902/matheus-cunha",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p430871.png",
+      "status": "downloaded",
+      "opta_code": "430871"
+    },
+    "179": {
+      "name": "Benjamin Sesko",
+      "athlete_id": "289155",
+      "source_name": "Benjamin Sesko",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/289155/benjamin-sesko",
+      "photo_url": "https://resources.premierleague.com/premierleague25/photos/players/110x140/485711.png",
+      "status": "downloaded",
+      "opta_code": "485711"
+    },
+    "180": {
+      "name": "Nick Pope",
+      "athlete_id": "161715",
+      "source_name": "Nick Pope",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/161715/nick-pope",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p98747.png",
+      "status": "downloaded",
+      "opta_code": "98747"
+    },
+    "181": {
+      "name": "Aaron Ramsdale",
+      "athlete_id": "236015",
+      "source_name": "Aaron Ramsdale",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/236015/aaron-ramsdale",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p225321.png",
+      "status": "downloaded",
+      "opta_code": "225321"
+    },
+    "182": {
+      "name": "Sven Botman",
+      "athlete_id": "274633",
+      "source_name": "Sven Botman",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/274633/sven-botman",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p220237.png",
+      "status": "downloaded",
+      "opta_code": "220237"
+    },
+    "183": {
+      "name": "Fabian Schar",
+      "athlete_id": "179233",
+      "source_name": "Fabian Schär",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/179233/fabian-schar",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p119471.png",
+      "status": "downloaded",
+      "opta_code": "119471"
+    },
+    "184": {
+      "name": "Dan Burn",
+      "athlete_id": "198138",
+      "source_name": "Dan Burn",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/198138/dan-burn",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p78916.png",
+      "status": "downloaded",
+      "opta_code": "78916"
+    },
+    "185": {
+      "name": "Tino Livramento",
+      "athlete_id": "299641",
+      "source_name": "Tino Livramento",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/299641/tino-livramento",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p441191.png",
+      "status": "downloaded",
+      "opta_code": "441191"
+    },
+    "186": {
+      "name": "Bruno Guimaraes",
+      "athlete_id": "218522",
+      "source_name": "Bruno Guimarães Rodriguez Moura",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/218522/bruno-guimaraes",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p208706.png",
+      "status": "downloaded",
+      "opta_code": "208706"
+    },
+    "187": {
+      "name": "Sandro Tonali",
+      "athlete_id": "261047",
+      "source_name": "Sandro Tonali",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/261047/sandro-tonali",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p432422.png",
+      "status": "downloaded",
+      "opta_code": "432422"
+    },
+    "188": {
+      "name": "Joelinton",
+      "athlete_id": "202232",
+      "source_name": "Joelinton Cássio Apolinário de Lira",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/202232/joelinton",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p180974.png",
+      "status": "downloaded",
+      "opta_code": "180974"
+    },
+    "189": {
+      "name": "Anthony Gordon",
+      "athlete_id": "268782",
+      "source_name": "Anthony Gordon",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/268782/anthony-gordon",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p232826.png",
+      "status": "downloaded",
+      "opta_code": "232826"
+    },
+    "190": {
+      "name": "Harvey Barnes",
+      "athlete_id": "243386",
+      "source_name": "Harvey Barnes",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/243386/harvey-barnes",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p201666.png",
+      "status": "downloaded",
+      "opta_code": "201666"
+    },
+    "191": {
+      "name": "Nick Woltemade",
+      "athlete_id": "298349",
+      "source_name": "Nick Woltemade",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/298349/nick-woltemade",
+      "photo_url": "https://resources.premierleague.com/premierleague25/photos/players/110x140/470313.png",
+      "status": "downloaded",
+      "opta_code": "470313"
+    },
+    "192": {
+      "name": "Matz Sels",
+      "athlete_id": "179497",
+      "source_name": "Matz Sels",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/179497/matz-sels",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p85633.png",
+      "status": "downloaded",
+      "opta_code": "85633"
+    },
+    "193": {
+      "name": "Angus Gunn",
+      "athlete_id": "181299",
+      "source_name": "Angus Gunn",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/181299/angus-gunn",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p107265.png",
+      "status": "downloaded",
+      "opta_code": "107265"
+    },
+    "194": {
+      "name": "Murillo",
+      "athlete_id": "338894",
+      "source_name": "Murillo Santiago Costa dos Santos",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/338894/murillo",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p575476.png",
+      "status": "downloaded",
+      "opta_code": "575476"
+    },
+    "195": {
+      "name": "Nikola Milenkovic",
+      "athlete_id": "238990",
+      "source_name": "Nikola Milenković",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/238990/nikola-milenkovic",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p227444.png",
+      "status": "downloaded",
+      "opta_code": "227444"
+    },
+    "196": {
+      "name": "Neco Williams",
+      "athlete_id": "291638",
+      "source_name": "Neco Williams",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/291638/neco-williams",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p215136.png",
+      "status": "downloaded",
+      "opta_code": "215136"
+    },
+    "197": {
+      "name": "Ola Aina",
+      "athlete_id": "206227",
+      "source_name": "Ola Aina",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/206227/ola-aina",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p159506.png",
+      "status": "downloaded",
+      "opta_code": "159506"
+    },
+    "198": {
+      "name": "Elliot Anderson",
+      "athlete_id": "238472",
+      "source_name": "Elliot Anderson",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/238472/elliot-anderson",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p215379.png",
+      "status": "downloaded",
+      "opta_code": "215379"
+    },
+    "199": {
+      "name": "Morgan Gibbs White",
+      "athlete_id": "243396",
+      "source_name": "Morgan Gibbs-White",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/243396/morgan-gibbs-white",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p222531.png",
+      "status": "downloaded",
+      "opta_code": "222531"
+    },
+    "200": {
+      "name": "Nicolas Dominguez",
+      "athlete_id": "254118",
+      "source_name": "Nicolás Domínguez",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/254118/nicolas-dominguez",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p250199.png",
+      "status": "downloaded",
+      "opta_code": "250199"
+    },
+    "201": {
+      "name": "Chris Wood",
+      "athlete_id": "134190",
+      "source_name": "Chris Wood",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/134190/chris-wood",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p60689.png",
+      "status": "downloaded",
+      "opta_code": "60689"
+    },
+    "202": {
+      "name": "Callum Hudson Odoi",
+      "athlete_id": "261419",
+      "source_name": "Callum Hudson-Odoi",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/261419/callum-hudson-odoi",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p209046.png",
+      "status": "downloaded",
+      "opta_code": "209046"
+    },
+    "203": {
+      "name": "Dan Ndoye",
+      "athlete_id": "275842",
+      "source_name": "Dan Ndoye",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/275842/dan-ndoye",
+      "photo_url": "https://resources.premierleague.com/premierleague25/photos/players/110x140/456512.png",
+      "status": "downloaded",
+      "opta_code": "456512"
+    },
+    "204": {
+      "name": "Robin Roefs",
+      "athlete_id": "301449",
+      "source_name": "Robin Roefs",
+      "photo": {
+        "href": "https://a.espncdn.com/i/headshots/soccer/players/full/301449.png",
+        "alt": "Robin Roefs"
+      },
+      "url": "https://www.espn.com/soccer/player/_/id/301449/robin-roefs",
+      "photo_url": "https://a.espncdn.com/i/headshots/soccer/players/full/301449.png",
+      "status": "downloaded"
+    },
+    "205": {
+      "name": "Anthony Patterson",
+      "athlete_id": "281705",
+      "source_name": "Anthony Patterson",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/281705/anthony-patterson",
+      "photo_url": "https://resources.premierleague.com/premierleague25/photos/players/110x140/232571.png",
+      "status": "downloaded",
+      "opta_code": "232571"
+    },
+    "206": {
+      "name": "Dan Ballard",
+      "athlete_id": "282645",
+      "source_name": "Daniel Ballard",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/282645/danny-ballard",
+      "photo_url": "https://resources.premierleague.com/premierleague25/photos/players/110x140/223827.png",
+      "status": "downloaded",
+      "opta_code": "223827"
+    },
+    "207": {
+      "name": "Luke ONien",
+      "athlete_id": "191574",
+      "source_name": "Luke O'Nien",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/191574/luke-onien",
+      "photo_url": "https://resources.premierleague.com/premierleague25/photos/players/110x140/167512.png",
+      "status": "downloaded",
+      "opta_code": "167512"
+    },
+    "208": {
+      "name": "Trai Hume",
+      "athlete_id": "290207",
+      "source_name": "Trai Hume",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/290207/trai-hume",
+      "photo_url": "https://resources.premierleague.com/premierleague25/photos/players/110x140/487676.png",
+      "status": "downloaded",
+      "opta_code": "487676"
+    },
+    "209": {
+      "name": "Dennis Cirkin",
+      "athlete_id": "301487",
+      "source_name": "Dennis Cirkin",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/301487/dennis-cirkin",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p461195.png",
+      "status": "downloaded",
+      "opta_code": "461195"
+    },
+    "210": {
+      "name": "Granit Xhaka",
+      "athlete_id": "149981",
+      "source_name": "Granit Xhaka",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/149981/granit-xhaka",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p84450.png",
+      "status": "downloaded",
+      "opta_code": "84450"
+    },
+    "211": {
+      "name": "Enzo Le Fee",
+      "athlete_id": "288340",
+      "source_name": "Enzo Le Fée",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/288340/enzo-le-fee",
+      "photo_url": "https://resources.premierleague.com/premierleague25/photos/players/110x140/484420.png",
+      "status": "downloaded",
+      "opta_code": "484420"
+    },
+    "212": {
+      "name": "Chris Rigg",
+      "athlete_id": "356295",
+      "source_name": "Chris Rigg",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/356295/chris-rigg",
+      "photo_url": "https://resources.premierleague.com/premierleague25/photos/players/110x140/554197.png",
+      "status": "downloaded",
+      "opta_code": "554197"
+    },
+    "213": {
+      "name": "Wilson Isidor",
+      "athlete_id": "265915",
+      "source_name": "Wilson Isidor",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/265915/wilson-isidor",
+      "photo_url": "https://resources.premierleague.com/premierleague25/photos/players/110x140/437505.png",
+      "status": "downloaded",
+      "opta_code": "437505"
+    },
+    "214": {
+      "name": "Eliezer Mayenda",
+      "athlete_id": "332862",
+      "source_name": "Eliezer Mayenda Dossou",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/332862/eliezer-mayenda",
+      "photo_url": "https://resources.premierleague.com/premierleague25/photos/players/110x140/564406.png",
+      "status": "downloaded",
+      "opta_code": "564406"
+    },
+    "215": {
+      "name": "Simon Adingra",
+      "athlete_id": "317404",
+      "source_name": "Simon Adingra",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/317404/simon-adingra",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p535818.png",
+      "status": "downloaded",
+      "opta_code": "535818"
+    },
+    "216": {
+      "name": "Guglielmo Vicario",
+      "athlete_id": "204082",
+      "source_name": "Guglielmo Vicario",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/204082/guglielmo-vicario",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p184254.png",
+      "status": "downloaded",
+      "opta_code": "184254"
+    },
+    "217": {
+      "name": "Antonin Kinsky",
+      "athlete_id": "324393",
+      "source_name": "Antonín Kinsky",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/324393/antonin-kinsky",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p485055.png",
+      "status": "downloaded",
+      "opta_code": "485055"
+    },
+    "218": {
+      "name": "Cristian Romero",
+      "athlete_id": "96970",
+      "source_name": "Cristian Romero",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/96970/cristian-romero",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p221632.png",
+      "status": "downloaded",
+      "opta_code": "221632"
+    },
+    "219": {
+      "name": "Micky van de Ven",
+      "athlete_id": "296512",
+      "source_name": "Micky van de Ven",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/296512/micky-van-de-ven",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p491279.png",
+      "status": "downloaded",
+      "opta_code": "491279"
+    },
+    "220": {
+      "name": "Pedro Porro",
+      "athlete_id": "268533",
+      "source_name": "Pedro Porro",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/268533/pedro-porro",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p441164.png",
+      "status": "downloaded",
+      "opta_code": "441164"
+    },
+    "221": {
+      "name": "Destiny Udogie",
+      "athlete_id": "290076",
+      "source_name": "Destiny Udogie",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/290076/destiny-udogie",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p487053.png",
+      "status": "downloaded",
+      "opta_code": "487053"
+    },
+    "222": {
+      "name": "James Maddison",
+      "athlete_id": "194450",
+      "source_name": "James Maddison",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/194450/james-maddison",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p172780.png",
+      "status": "downloaded",
+      "opta_code": "172780"
+    },
+    "223": {
+      "name": "Dejan Kulusevski",
+      "athlete_id": "272695",
+      "source_name": "Dejan Kulusevski",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/272695/dejan-kulusevski",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p445044.png",
+      "status": "downloaded",
+      "opta_code": "445044"
+    },
+    "224": {
+      "name": "Rodrigo Bentancur",
+      "athlete_id": "215772",
+      "source_name": "Rodrigo Bentancur",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/215772/rodrigo-bentancur",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p202993.png",
+      "status": "downloaded",
+      "opta_code": "202993"
+    },
+    "225": {
+      "name": "Dominic Solanke",
+      "athlete_id": "194115",
+      "source_name": "Dominic Solanke-Mitchell",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/194115/dominic-solanke",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p154566.png",
+      "status": "downloaded",
+      "opta_code": "154566"
+    },
+    "226": {
+      "name": "Richarlison",
+      "athlete_id": "156799",
+      "source_name": "Richarlison de Andrade",
+      "photo": null,
+      "url": "https://www.espn.com/soccer/player/_/id/156799/richarlison",
+      "photo_url": "https://resources.premierleague.com/premierleague/photos/players/250x250/p212319.png",
+      "status": "downloaded",
+      "opta_code": "212319"
+    },
+    "227": {
+      "name": "Mohammed Kudus",
+      "athlete_id": "266599",
+      "source_name": "Mohammed Kudus",
+      "photo": {
+        "href": "https://a.espncdn.com/i/headshots/soccer/players/full/266599.png",
+        "alt": "Mohammed Kudus"
+      },
+      "url": "https://www.espn.com/soccer/player/_/id/266599/mohammed-kudus",
+      "photo_url": "https://a.espncdn.com/i/headshots/soccer/players/full/266599.png",
+      "status": "downloaded"
+    }
+  }
+}
